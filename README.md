@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swapnil Katakwar
 - 👀 I’m pursing my bachelors degree in Computer Science
 - 🌱 My specialty is Cybersecurity and I have a minor in Criminal Justice
-- I will graduate in December of 2022
+- I will graduate in December of 2021
 - You can reach me through my email at skatakwa@uncc.edu
 
 <!---
